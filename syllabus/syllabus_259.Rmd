@@ -13,7 +13,7 @@ csl: apa6.csl
 
 title: "Principles of Data Science"
 author: "PSYC 259"
-date: "Winter 2021"
+date: "Winter 2022"
 
 fontfamily: mathpazo
 fontsize: 11pt

@@ -1,6 +1,6 @@
 # Setting up R, RStudio, Git, and Github
 
-I will use RStudio Cloud to share examples and create a ready-to-go workspace for working on assignments. However, it's most useful for you to get comfortable with running everthing on your own system. Follow these instructions to setup the software environment we will need for this class. These instructions are adapted from  https://happygitwithr.com.
+Although you can use lab computers with RStudio and R already installed, it's most useful for you to get comfortable with running everything on your own system. Follow these instructions to setup the software environment we will need for this class. These instructions are adapted from  https://happygitwithr.com.
 
 ## Install R and R Studio
 
