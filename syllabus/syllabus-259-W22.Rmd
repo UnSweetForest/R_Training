@@ -113,7 +113,7 @@ You should choose a current or past data analysis project that you have worked w
 
 ### Final Project 
 
-In your final project, you will improve the data workflow that you chose using skills learned in this class. Your final project should be shared with the instructor and TA through an online repository (such as RStudio Online, Github, OSF, or Code Ocean) and allow your end-to-end data workflow to be reproduced (e.g., include raw data files, functions that implement processing steps, etc.). You can use whatever programming languages are necessary (it doesn't need to just be in R), but you should consult with the instructor if R will not be used to ensure that the instructor can run your code (or alternatively, that you demonstrate your workflow to the instructor).
+In your final project, you will improve the data workflow that you chose using skills learned in this class. Your final project should be shared with the instructor and TA through an online repository (such as Github, OSF, or Code Ocean) and allow your end-to-end data workflow to be reproduced (e.g., include raw data files, functions that implement processing steps, etc.). You can use whatever programming languages are necessary (it doesn't need to just be in R), but you should consult with the instructor if R will not be used to ensure that the instructor can run your code (or alternatively, that you demonstrate your workflow to the instructor).
 
 Your project should be a report, either to demonstrate exploratory analyses or to communicate the results, that is written in R Markdown and contains visualizations written in R. In a brief presentation in the last week of class, you will include summarize the changes you implemented in the workflow, describe the problems you believe they have solved, and reflect on what future changes may need to be implemented. 
 
@@ -127,58 +127,75 @@ In the event of absences due to illness or family obligations, please contact th
 
 Readings should be completed prior to each class. 
 
-## `r advdate(wed, 1)`: Course Goals
+## `r advdate(wed, 1)`: Course Goals and Setup
 - Goals of the class
 - Logistics
-- Readings and assignments
+- Workflow examples
+- Software setup
+- Introduction to Github
 
 *R4DS:* [Introduction](https://r4ds.had.co.nz/introduction.html) and [Workflow Basics](https://r4ds.had.co.nz/workflow-basics.html)
-
-## `r advdate(wed, 2)`: Data Workflow
-- File organization
-- Version control
-- Workflow example
-- *SKILLS:* Basic I/O functions, getting help, using Github
-
-*R4DS:* [Data import](https://r4ds.had.co.nz/data-import.html), [Tibbles](https://r4ds.had.co.nz/tibbles.html), and [Projects](https://r4ds.had.co.nz/workflow-projects.html)
-
-*OTHER READINGS:* Minimizing mistakes article (Rouder et al., 2019), [Github beginner guide](https://guides.github.com/activities/hello-world/)
 
 *GitHub Project Links:*
 
 - [Instructions to set up R, RStudio, git, and Github](https://github.com/psych-259-data-science-2022/259-syllabus-readings-slides/blob/master/software_setup.md)
-- [Basic file import](TBD)
-- [Multiple file import](TBD)
-- [Import homework](TBD)
 
-##  `r advdate(wed, 3)`: Data Structure
-- Data types (numbers, factors, strings, dates)
-- Data organization (variables/observations)
-- *SKILLS:* Factors, logic, data wrangling
+## `r advdate(wed, 2)`: File Organization and Workflow
+- File organization 
+- Version control
+- *SKILLS:* R language basics (variables, assignment, comments, calling functions), file import/export
 
-*R4DS:* [Data transformation](https://r4ds.had.co.nz/transform.html), [Tidy data](https://r4ds.had.co.nz/tidy-data.html), and [Factors](https://r4ds.had.co.nz/factors.html)
+*R4DS:* [Scripts](https://r4ds.had.co.nz/workflow-scripts.html), [Projects](https://r4ds.had.co.nz/workflow-projects.html),  [Tibbles](https://r4ds.had.co.nz/tibbles.html), and [Data import](https://r4ds.had.co.nz/data-import.html)
 
-*OTHER READINGS:* Tidy Data [@Wickham2014]
+*OTHER READINGS:* Minimizing mistakes article (Rouder et al., 2019)
 
 *GitHub Project Links:*
 
-- [Data wrangling](https://github.com/PSYC-259-Data-Science/259-data-wrangling) (scripts 1 and 2)
-- [Data wrangling homework](https://github.com/PSYC-259-Data-Science/259-wrangling-homework)
+- [R language basics](TBD)
+- [File import](TBD)
+- [Import homework](TBD)
 
-##  `r advdate(wed, 4)`: Automation
+##  `r advdate(wed, 3)`: NO CLASS - MLK DAY
+
+##  `r advdate(wed, 4)`: Data Transformations
+- Basic data types (numbers, strings)
+- Variable naming
+- *SKILLS:* dplyr data wrangling, logical statements, strings
+
+*R4DS:* [Data transformation](https://r4ds.had.co.nz/transform.html) and [Strings](https://r4ds.had.co.nz/strings.html)
+
+*GitHub Project Links:*
+
+- [Data wrangling](TBD)
+- [Data wrangling homework](TBD)
+
+##  `r advdate(wed, 5)`: Data Structure
+- Tidy data (observations/cases)
+- More advanced data types (factors, dates, vectors, lists)
+- *SKILLS:* More data wrangling, factors, dates
+
+*R4DS:* [Tidy data](https://r4ds.had.co.nz/tidy-data.html), [Factors](https://r4ds.had.co.nz/factors.html), and [Dates](https://r4ds.had.co.nz/dates-and-times.html)
+
+*GitHub Project Links:*
+
+- [Data shaping](TBD)
+- [Homework](TBD)
+
+##  `r advdate(wed, 6)`: Automation: Functions and Iteration
+- Finding new packages/APIs vs. writing your own functions
 - Automating your analyses
 - Writing more efficient code
-- *SKILLS:* More data wrangling, iteration (map, for loops)
+- *SKILLS:* Writing custom functions, iteration (map, for loops)
 
 *R4DS:* [Functions](https://r4ds.had.co.nz/functions.html), [Vectors](https://r4ds.had.co.nz/vectors.html) and [Iteration](https://r4ds.had.co.nz/iteration.html)
 
 *GitHub Project Links:*
 
-- [Data wrangling](https://github.com/PSYC-259-Data-Science/259-data-wrangling) (scripts 3 and 4)
-- [Automation](https://github.com/PSYC-259-Data-Science/259-automation)
-- [Tidying and automation homework](https://github.com/PSYC-259-Data-Science/259-tidying-automation-homework)
+- [Automation](TBD)
+- [Automation homework](TBD)
 
-##  `r advdate(wed, 5)`: Exploratory Data Analysis
+##  `r advdate(wed, 7)`: Exploratory Data Analysis
+- **WORKFLOW PRESENTATIONS**
 - Data validation
 - Automating visualizations 
 - *SKILLS:* Basic visualizations with ggplot2
@@ -187,25 +204,12 @@ Readings should be completed prior to each class.
 
 *GitHub Project Links:*
 
-- [Visualization and EDA](https://github.com/PSYC-259-Data-Science/259-visualization-eda)
-- [Visualization and EDA group exercise](https://github.com/PSYC-259-Data-Science/259-group-wrangling-checking)
+- [Visualization and EDA](TBD)
+- [Visualization and EDA homework](TBD)
 
-##  `r advdate(wed, 6)`: Custom Functions Part 1
-- **WORKFLOW PRESENTATIONS GROUP 1**
-- Finding new packages/APIs vs. writing your own functions
-- Defining custom functions within a script
-- *SKILLS:* Writing basic functions
+##  `r advdate(wed, 8)`: NO CLASS: PRESIDENTS' DAY
 
-##  `r advdate(wed, 7)`: Custom Functions Part 2
-- **WORKFLOW PRESENTATIONS GROUP 2**
-- "Technical debt", "design smells", and code refactoring
-- Sourcing functions
-- Working with function arguments
-- *SKILLS:* Writing advanced functions
-
-*OTHER READING:* Technical debt [@SuryanarayanaSamarthyam2014]
-
-##  `r advdate(wed, 8)`: Data Sharing and Reproducibility
+##  `r advdate(wed, 9)`: Data Sharing and Reproducibility
 - Reuse-minded project management
 - Reproducible reports
 - Preserving programming environment and analyses
@@ -213,20 +217,21 @@ Readings should be completed prior to each class.
 
 *R4DS:* [R Markdown](https://r4ds.had.co.nz/r-markdown.html)
 
-*OTHER READINGS:* Transparency in psychological science [@KleinHardwicke2018] and Care and feeding of data [@GoodmanPepe2014]
+*OTHER READINGS:* Transparency in psychological science (Klein et al., 2018)
 
-##  `r advdate(wed, 9)`: Communication
+*GitHub Project Links:*
+
+- [RMarkdown](TBD)
+
+##  `r advdate(wed, 10)`: Communication
 - Communicating through graphical styles
 - Interactive plots for data exploration
-- Manuscript preparation in R Markdown 
-- *SKILLS:* ggplot and extensions, papaja
+- *SKILLS:* ggplot and extensions
 
 *R4DS:* [Graphics for communication](https://r4ds.had.co.nz/graphics-for-communication.html)
 
-*OTHER READING:* Designing graphs for decision-makers [@ZacksFranconeri2020], [Chartjunk](https://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=00040Z) from [@Tufte1990; @Tufte2001; @Tufte2006], and (optional) Graph construction [@Witt2019].
+*OTHER READING:* [Chartjunk](https://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=00040Z) from (Tufte 1990; 2001; 2006)
 
-##  `r advdate(wed, 10)`: Project Presentations
-- How have you changed your workflow?
-- What have you learned about your data? 
-- What problems are still unresolved?
+*GitHub Project Links:*
 
+- [Visualization](TBD)
