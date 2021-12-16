@@ -161,7 +161,7 @@ Readings should be completed prior to each class.
 
 *R4DS:* [Data transformation](https://r4ds.had.co.nz/transform.html) and [Strings](https://r4ds.had.co.nz/strings.html)
 
-*OTHER READINGS:* Minimizing mistakes article (Rouder et al., 2019)
+*OTHER READINGS:* Mistakes article (Kovacs et al., 2021)
 
 *GitHub Project Links:*
 
@@ -187,6 +187,8 @@ Readings should be completed prior to each class.
 - *SKILLS:* Writing custom functions, iteration (map, for loops)
 
 *R4DS:* [Functions](https://r4ds.had.co.nz/functions.html), [Vectors](https://r4ds.had.co.nz/vectors.html) and [Iteration](https://r4ds.had.co.nz/iteration.html)
+
+*OTHER READINGS:* Minimizing mistakes article (Rouder et al., 2019)
 
 *GitHub Project Links:*
 

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.5.8)  16 DEC 2021 08:46
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.5.8)  16 DEC 2021 09:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -716,15 +716,15 @@ LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <12> not available
 (Font)              Font shape `T1/ppl/b/n' tried instead on input line 223.
 [2] [3] [4]
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10.95> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 497.
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 499.
 [5] 
 AED: lastpage setting LastPage
 [6]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 587.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 587.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 589.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 589.
 (./syllabus-259-W22.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 587.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 587.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 589.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 589.
 Package rerunfilecheck Info: File `syllabus-259-W22.out' has not changed.
 (rerunfilecheck)             Checksum: D6440739D2828E0C1C733BEACB5F5429.
  ) 
@@ -735,6 +735,6 @@ Here is how much of TeX's memory you used:
  23813 multiletter control sequences out of 15000+600000
  27917 words of font info for 59 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 55i,12n,50p,1205b,381s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 55i,12n,50p,1205b,380s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on syllabus-259-W22.pdf (6 pages).
