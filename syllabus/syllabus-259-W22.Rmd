@@ -114,9 +114,7 @@ You should choose a current or past data analysis project that you have worked w
 
 ### Final Project 
 
-In your final project, you will improve the data workflow that you chose using skills learned in this class. Your final project should be shared with the instructor and TA through an online repository (such as Github, OSF, or Code Ocean) and allow your end-to-end data workflow to be reproduced (e.g., include raw data files, functions that implement processing steps, etc.). You can use whatever programming languages are necessary (it doesn't need to just be in R), but you should consult with the instructor if R will not be used to ensure that the instructor can run your code (or alternatively, that you demonstrate your workflow to the instructor).
-
-Your project should be a report, either to demonstrate exploratory analyses or to communicate the results, that is written in R Markdown and contains visualizations written in R. In a brief presentation in the last week of class, you will include summarize the changes you implemented in the workflow, describe the problems you believe they have solved, and reflect on what future changes may need to be implemented. 
+In your final project, you will improve the data workflow that you chose using skills learned in this class. Your final project should be shared with the instructor and TA through an online repository (such as Github, OSF, or Code Ocean) and allow your end-to-end data workflow to be reproduced (e.g., include raw data files, functions that implement processing steps, etc.). You can use whatever programming languages are necessary (it doesn't need to just be in R), but you should consult with the instructor if R will not be used to ensure that the instructor can run your code (or alternatively, that you demonstrate your workflow to the instructor). Your project should be a report, either to demonstrate exploratory analyses or to communicate the results, that is written in R Markdown and contains visualizations written in R. 
 
 ## Attendance
 
@@ -148,8 +146,6 @@ Readings should be completed prior to each class.
 
 *R4DS:* [Scripts](https://r4ds.had.co.nz/workflow-scripts.html), [Projects](https://r4ds.had.co.nz/workflow-projects.html),  [Tibbles](https://r4ds.had.co.nz/tibbles.html), and [Data import](https://r4ds.had.co.nz/data-import.html)
 
-*OTHER READINGS:* Minimizing mistakes article (Rouder et al., 2019)
-
 *GitHub Project Links:*
 
 - [R language basics](TBD)
@@ -164,6 +160,8 @@ Readings should be completed prior to each class.
 - *SKILLS:* dplyr data wrangling, logical statements, strings
 
 *R4DS:* [Data transformation](https://r4ds.had.co.nz/transform.html) and [Strings](https://r4ds.had.co.nz/strings.html)
+
+*OTHER READINGS:* Minimizing mistakes article (Rouder et al., 2019)
 
 *GitHub Project Links:*
 
