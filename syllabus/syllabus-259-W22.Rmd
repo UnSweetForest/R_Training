@@ -79,6 +79,7 @@ The goals of this course are for you to critically analyze and improve your data
 - [STAT 545](https://stat545.com/index.html), another good, free textbook on data wrangling and exploration
 - [Happy Git with R](https://happygitwithr.com), for all of your Github-Git-R-RStudio needs
 - [*R Markdown: The Definitive Guide*](https://bookdown.org/yihui/rmarkdown/)
+- [*The Science of Visual Data Communication* article](https://doi.org/10.1177%2F15291006211051956)
 
 # Course Policies
 
