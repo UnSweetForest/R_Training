@@ -149,9 +149,7 @@ Readings should be completed prior to each class. Zoom class meetings (Weeks 1 a
 
 *GitHub Project Links:*
 
-- [R language basics](TBD)
-- [File import](TBD)
-- [Import homework](TBD)
+- [Flipbook tutorial](https://psych-259-data-science-2022.github.io/259-langbasics-importing/#1)
 
 ##  `r advdate(wed, 3)`: NO CLASS - MLK DAY
 
