@@ -151,6 +151,7 @@ Readings should be completed prior to each class. Zoom class meetings (Weeks 1 a
 
 - [Flipbook tutorial](https://psych-259-data-science-2022.github.io/259-langbasics-importing/#1)
 - [Github project link](https://github.com/psych-259-data-science-2022/259-langbasics-importing)
+- [Github homework link](https://github.com/psych-259-data-science-2022/259-langbasics-importing-hw)
 
 ##  `r advdate(wed, 3)`: NO CLASS - MLK DAY
 
@@ -165,8 +166,9 @@ Readings should be completed prior to each class. Zoom class meetings (Weeks 1 a
 
 *GitHub Project Links:*
 
-- [Data wrangling](TBD)
-- [Data wrangling homework](TBD)
+- [Flipbook tutorial](https://psych-259-data-science-2022.github.io/259-data-transformations/#1)
+- [Github project link](https://github.com/psych-259-data-science-2022/259-data-transformations)
+- [Github homework link](https://github.com/psych-259-data-science-2022/259-data-transformations-hw)
 
 ##  `r advdate(wed, 5)`: Data Structure
 - Tidy data (observations/cases)
