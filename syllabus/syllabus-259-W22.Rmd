@@ -22,6 +22,7 @@ header-includes:
    - \linespread{1.05}
 ---
 
+<!-- In the future, this package is more trouble than it's worth. To get it running, need to install xquartz and a lot of hidden dependencies -->
 
 ```{r setup, include=FALSE, cache=F, message=F, warning=F, results="hide"}
 knitr::opts_chunk$set(cache=TRUE)
@@ -195,8 +196,7 @@ Readings should be completed prior to each class. Zoom class meetings (Weeks 1 a
 
 *GitHub Project Links:*
 
-- [Automation](TBD)
-- [Automation homework](TBD)
+- [Automation](https://github.com/psych-259-data-science-2022/259-automation)
 
 ##  `r advdate(wed, 7)`: Exploratory Data Analysis
 - **WORKFLOW PRESENTATIONS**
@@ -208,8 +208,8 @@ Readings should be completed prior to each class. Zoom class meetings (Weeks 1 a
 
 *GitHub Project Links:*
 
-- [Visualization and EDA](TBD)
-- [Visualization and EDA homework](TBD)
+- [Visualization and EDA](https://github.com/psych-259-data-science-2022/259-exploratory-data-analysis)
+- [Integrating skills homework](https://github.com/psych-259-data-science-2022/259-integrating-skills-hw)
 
 ##  `r advdate(wed, 8)`: NO CLASS: PRESIDENTS' DAY
 
@@ -225,7 +225,8 @@ Readings should be completed prior to each class. Zoom class meetings (Weeks 1 a
 
 *GitHub Project Links:*
 
-- [RMarkdown](TBD)
+- [RMarkdown](https://github.com/psych-259-data-science-2022/259-rmarkdown)
+- [RMarkdown homework](https://github.com/psych-259-data-science-2022/259-rmarkdown-hw)
 
 ##  `r advdate(wed, 10)`: Communication
 - Communicating through graphical styles
@@ -238,4 +239,4 @@ Readings should be completed prior to each class. Zoom class meetings (Weeks 1 a
 
 *GitHub Project Links:*
 
-- [Visualization](TBD)
+- [Visualization](https://github.com/psych-259-data-science-2022/259-visualization-communication)
